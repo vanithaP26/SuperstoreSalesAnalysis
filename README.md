@@ -25,13 +25,16 @@ To explore sales and profit trends, identify top-performing regions and categori
 ---
 
 ## 📁 Project Structure
+```
 SuperstoreSalesAnalysis/
-│── dataset/
-│── preprocessing_dataset.ipynb
-│── sqlQuery.sql
-│── README.md
-
-
+│
+├── dataset/
+│ └── Superstore.csv
+│
+├── preprocessing_dataset.ipynb
+├── sqlQuery.sql
+└── README.md
+```
 ---
 
 ## 🚀 How to Run
