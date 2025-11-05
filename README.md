@@ -31,8 +31,6 @@ SuperstoreSalesAnalysis/
 │── sqlQuery.sql
 │── README.md
 
-yaml
-Copy code
 
 ---
 
